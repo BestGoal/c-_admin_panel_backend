@@ -1,0 +1,57 @@
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.deps.json
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfoInputs.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfo.cs
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.json
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.dev.json
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csprojAssemblyReference.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.genruntimeconfig.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.deps.json
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.json
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.dev.json
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csprojAssemblyReference.cache
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfoInputs.cache
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfo.cs
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\user\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.deps.json
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.json
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.dev.json
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfoInputs.cache
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfo.cs
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.genruntimeconfig.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.deps.json
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.json
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.dev.json
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csprojAssemblyReference.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfo.cs
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.dll
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.pdb
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.genruntimeconfig.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.deps.json
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.json
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.runtimeconfig.dev.json
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.dll
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\bin\Debug\netcoreapp3.1\UserManagment.pdb
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csprojAssemblyReference.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfoInputs.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.AssemblyInfo.cs
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.csproj.CoreCompileInputs.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.dll
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.pdb
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\UserManagment\obj\Debug\netcoreapp3.1\UserManagment.genruntimeconfig.cache

@@ -1,0 +1,82 @@
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.init.resources
+C:\Users\Hamed Al_maskari\source\repos\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.GenerateResource.cache
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations._new.resources
+C:\Users\user\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.GenerateResource.cache
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.addtaskowner.resources
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.closingReport.resources
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.status.resources
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations._new.resources
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.sssss.resources
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.somechanges.resources
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.GenerateResource.cache
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hamed Al_maskari\Documents\eventsserver\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.addtaskowner.resources
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.closingReport.resources
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.status.resources
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations._new.resources
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.sssss.resources
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.somechanges.resources
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.GenerateResource.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\user\Downloads\eventsserver-master (1)\eventsserver-master\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.addtaskowner.resources
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.closingReport.resources
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.status.resources
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations._new.resources
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.sssss.resources
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.Migrations.somechanges.resources
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.GenerateResource.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\development task\albadi-incident_cs_api-892cf760feaa\EventsServerSide\EventsServerSide\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
